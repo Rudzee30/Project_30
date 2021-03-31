@@ -20,7 +20,7 @@ class Box5 {
       rectMode(CENTER);
       translate(pos.x, pos.y);
       rotate(angle);
-      fill("Yellow");
+      
       rect(0,0, this.width, this.height);
       pop();
      }
